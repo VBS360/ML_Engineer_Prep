@@ -15,3 +15,9 @@ Before building ML models, it's important to have:
 
 This repository is part of my journey to transition from **learning concepts → building real ML systems**.
 
+---
+
+## 📎 Note
+
+This repository focuses on **learning by doing**.  
+Code may evolve as I improve and optimize my approach.
