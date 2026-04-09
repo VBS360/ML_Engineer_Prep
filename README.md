@@ -1,6 +1,6 @@
-# 🧠 Python for ML Engineers
+# 🧠 Preparation for ML Engineers
 
-This repository contains my foundational Python practice as I prepare to become a **Machine Learning Engineer**.
+This repository contains my foundational practice as I prepare to become a **Machine Learning Engineer**.
 
 The goal of this repo is to build strong coding fundamentals required for real-world ML tasks, focusing on **clean, reusable, and structured code** rather than just syntax.
 
@@ -9,7 +9,7 @@ The goal of this repo is to build strong coding fundamentals required for real-w
 ## 📌 Why This Repository?
 
 Before building ML models, it's important to have:
-- Strong Python fundamentals
+- Strong fundamentals
 - Clean coding practices
 - Logical problem-solving skills
 
